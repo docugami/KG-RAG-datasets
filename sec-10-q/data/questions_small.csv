@@ -1,0 +1,50 @@
+Question,Source Docs,Question Type,Source Chunk Type
+How has Apple's total net sales changed over time?,*AAPL*,Multi-Doc RAG,Table
+What are the major factors contributing to the change in Apple's gross margin in the most recent 10-Q compared to the previous quarters?,*AAPL*,Multi-Doc RAG,Text
+"Has there been any significant change in Apple's operating expenses over the reported quarters? If so, what are the key drivers for this change?",*AAPL*,Multi-Doc RAG,Table
+How has Apple's revenue from iPhone sales fluctuated across quarters?,*AAPL*,Multi-Doc RAG,Table
+Can any trends be identified in Apple�s Services segment revenue over the reported periods?,*AAPL*,Multi-Doc RAG,Table
+What is the impact of foreign exchange rates on Apple's financial performance? List this out separately for each reported period.,*AAPL*,Multi-Doc RAG,Table
+Are there any notable changes in Apple's liquidity position or cash flows as reported in these 10-Qs?,*AAPL*,Multi-Doc RAG,Table
+How does Apple's R&D expenditure in the most recent quarter compare to previous quarters and what implications might this have?,*AAPL*,Multi-Doc RAG,Table
+What legal proceedings or contingencies are disclosed in these 10-Qs and how might they potentially impact Apple?,*AAPL*,Multi-Doc RAG,Text
+Has Apple engaged in any significant share repurchase activities in the reported quarters and what are the financial implications of these activities?,*AAPL*,Multi-Doc RAG,Table
+Are there any significant changes in Apple�s debt structure or interest expenses across these quarters?,*AAPL*,Multi-Doc RAG,Table
+What is the effective tax rate reported by Apple in these quarters and how does it compare across the periods?,*AAPL*,Multi-Doc RAG,Table
+Does Apple report any significant new business acquisitions or divestitures in these 10-Qs?,*AAPL*,Multi-Doc RAG,Text
+How have Apple's inventory levels changed across these quarters and what might this indicate about their supply chain management?,*AAPL*,Multi-Doc RAG,Table
+Are there any significant changes or new disclosures in Apple�s accounting policies as reported in these 10-Qs?,*AAPL*,Multi-Doc RAG,Text
+"Summarize the risk factors to Apple's business, and how they have changed over the reporting period",*AAPL*,Multi-Doc RAG,Text
+How has Microsoft's total net sales evolved over time?,*MSFT*,Multi-Doc RAG,Table
+What are the key elements that have influenced the shift in Microsoft's gross margin in the latest quarterly report compared to past quarters?,*MSFT*,Multi-Doc RAG,Text
+"Have there been notable fluctuations in Microsoft's operational expenditures during the reported quarters? If so, what have been the principal factors behind these changes?",*MSFT*,Multi-Doc RAG,Table
+How has Microsoft's revenue from Windows or Surface devices varied quarter to quarter?,*MSFT*,Multi-Doc RAG,Table
+What patterns can be discerned from Microsoft�s Cloud Services revenue throughout the reported periods?,*MSFT*,Multi-Doc RAG,Table
+How have foreign exchange rates affected Microsoft's financial results? Please detail the effects for each reported period.,*MSFT*,Multi-Doc RAG,Table
+What significant movements have been observed in Microsoft's liquidity status or cash flow as per the quarterly reports?,*MSFT*,Multi-Doc RAG,Table
+"How does Microsoft's research and development spending in the latest quarter stack up against prior quarters, and what are the potential repercussions?",*MSFT*,Multi-Doc RAG,Table
+"What legal actions or potential liabilities are revealed in the quarterly reports, and how could they influence Microsoft?",*MSFT*,Multi-Doc RAG,Text
+"Has Microsoft partaken in any substantial stock buyback programs in the reported quarters, and what are the economic consequences of these actions?",*MSFT*,Multi-Doc RAG,Table
+Are there any substantial alterations in Microsoft�s debt configuration or interest expenses over these quarters?,*MSFT*,Multi-Doc RAG,Table
+What effective tax rate has Microsoft reported in these quarters and how does it differ from period to period?,*MSFT*,Multi-Doc RAG,Table
+Has Microsoft announced any major new company acquisitions or sell-offs in these quarterly reports?,*MSFT*,Multi-Doc RAG,Text
+"In what ways have Microsoft's inventory levels shifted during these quarters, and what does this suggest about their management of the supply chain?",*MSFT*,Multi-Doc RAG,Table
+Have there been any significant updates or newly reported changes in Microsoft�s accounting principles in the quarterly reports?,*MSFT*,Multi-Doc RAG,Text
+Outline the risk elements associated with Microsoft's business and the evolution of these risks over the reporting timeframe.,*MSFT*,Multi-Doc RAG,Text
+How has NVIDIA's total net sales trended over time?,*NVDA*,Multi-Doc RAG,Table
+What are the principal reasons behind any changes in NVIDIA's gross margin in the most recent 10-Q compared to earlier quarters?,*NVDA*,Multi-Doc RAG,Text
+"Has there been a considerable shift in NVIDIA's operating costs over the reported quarters? If so, what are the main causes for this shift?",*NVDA*,Multi-Doc RAG,Table
+How has NVIDIA's revenue from its GPU sales varied across different quarters?,*NVDA*,Multi-Doc RAG,Table
+Can any consistent trends be identified in NVIDIA�s Data Center segment revenue across the reported periods?,*NVDA*,Multi-Doc RAG,Table
+What role have foreign exchange rates played in NVIDIA's financial outcomes? Please provide a breakdown for each reporting period.,*NVDA*,Multi-Doc RAG,Table
+What are the key changes in NVIDIA's liquidity status or cash flows as disclosed in these quarterly reports?,*NVDA*,Multi-Doc RAG,Table
+"Comparing the most recent quarter to previous ones, how has NVIDIA's investment in research and development changed and what might be the implications?",*NVDA*,Multi-Doc RAG,Table
+"What legal proceedings or uncertainties are presented in NVIDIA's quarterly reports, and how might they potentially affect the company?",*NVDA*,Multi-Doc RAG,Text
+"Has NVIDIA taken part in any significant share buyback initiatives within the reported quarters, and what are the financial effects of these initiatives?",*NVDA*,Multi-Doc RAG,Table
+Are there significant changes in NVIDIA�s debt profile or interest costs throughout these quarters?,*NVDA*,Multi-Doc RAG,Table
+"What has been NVIDIA's effective tax rate in these periods, and how does it compare with previous periods?",*NVDA*,Multi-Doc RAG,Table
+Does NVIDIA disclose any significant new business acquisitions or divestitures in its quarterly reports?,*NVDA*,Multi-Doc RAG,Text
+"How have NVIDIA's inventory levels changed during these quarters, and what might this indicate regarding their supply chain management?",*NVDA*,Multi-Doc RAG,Table
+Have there been any noteworthy changes or recent introductions in NVIDIA�s accounting policies as outlined in these 10-Qs?,*NVDA*,Multi-Doc RAG,Text
+"Summarize the risk factors to NVIDIA's business, and describe how they have transformed throughout the reporting period.",*NVDA*,Multi-Doc RAG,Text
+How has Intel's total net sales fluctuated over historical periods?,*INTC*,Multi-Doc RAG,Table

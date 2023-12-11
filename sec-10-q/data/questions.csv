@@ -1,0 +1,241 @@
+Question,Source Docs,Question Type,Source Chunk Type
+How has Apple's total net sales changed over time?,*AAPL*,Multi-Doc RAG,Table
+What are the major factors contributing to the change in Apple's gross margin in the most recent 10-Q compared to the previous quarters?,*AAPL*,Multi-Doc RAG,Text
+"Has there been any significant change in Apple's operating expenses over the reported quarters? If so, what are the key drivers for this change?",*AAPL*,Multi-Doc RAG,Table
+How has Apple's revenue from iPhone sales fluctuated across quarters?,*AAPL*,Multi-Doc RAG,Table
+Can any trends be identified in Apple�s Services segment revenue over the reported periods?,*AAPL*,Multi-Doc RAG,Table
+What is the impact of foreign exchange rates on Apple's financial performance? List this out separately for each reported period.,*AAPL*,Multi-Doc RAG,Table
+Are there any notable changes in Apple's liquidity position or cash flows as reported in these 10-Qs?,*AAPL*,Multi-Doc RAG,Table
+How does Apple's R&D expenditure in the most recent quarter compare to previous quarters and what implications might this have?,*AAPL*,Multi-Doc RAG,Table
+What legal proceedings or contingencies are disclosed in these 10-Qs and how might they potentially impact Apple?,*AAPL*,Multi-Doc RAG,Text
+Has Apple engaged in any significant share repurchase activities in the reported quarters and what are the financial implications of these activities?,*AAPL*,Multi-Doc RAG,Table
+Are there any significant changes in Apple�s debt structure or interest expenses across these quarters?,*AAPL*,Multi-Doc RAG,Table
+What is the effective tax rate reported by Apple in these quarters and how does it compare across the periods?,*AAPL*,Multi-Doc RAG,Table
+Does Apple report any significant new business acquisitions or divestitures in these 10-Qs?,*AAPL*,Multi-Doc RAG,Text
+How have Apple's inventory levels changed across these quarters and what might this indicate about their supply chain management?,*AAPL*,Multi-Doc RAG,Table
+Are there any significant changes or new disclosures in Apple�s accounting policies as reported in these 10-Qs?,*AAPL*,Multi-Doc RAG,Text
+"Summarize the risk factors to Apple's business, and how they have changed over the reporting period",*AAPL*,Multi-Doc RAG,Text
+How has Microsoft's total net sales evolved over time?,*MSFT*,Multi-Doc RAG,Table
+What are the key elements that have influenced the shift in Microsoft's gross margin in the latest quarterly report compared to past quarters?,*MSFT*,Multi-Doc RAG,Text
+"Have there been notable fluctuations in Microsoft's operational expenditures during the reported quarters? If so, what have been the principal factors behind these changes?",*MSFT*,Multi-Doc RAG,Table
+How has Microsoft's revenue from Windows or Surface devices varied quarter to quarter?,*MSFT*,Multi-Doc RAG,Table
+What patterns can be discerned from Microsoft�s Cloud Services revenue throughout the reported periods?,*MSFT*,Multi-Doc RAG,Table
+How have foreign exchange rates affected Microsoft's financial results? Please detail the effects for each reported period.,*MSFT*,Multi-Doc RAG,Table
+What significant movements have been observed in Microsoft's liquidity status or cash flow as per the quarterly reports?,*MSFT*,Multi-Doc RAG,Table
+"How does Microsoft's research and development spending in the latest quarter stack up against prior quarters, and what are the potential repercussions?",*MSFT*,Multi-Doc RAG,Table
+"What legal actions or potential liabilities are revealed in the quarterly reports, and how could they influence Microsoft?",*MSFT*,Multi-Doc RAG,Text
+"Has Microsoft partaken in any substantial stock buyback programs in the reported quarters, and what are the economic consequences of these actions?",*MSFT*,Multi-Doc RAG,Table
+Are there any substantial alterations in Microsoft�s debt configuration or interest expenses over these quarters?,*MSFT*,Multi-Doc RAG,Table
+What effective tax rate has Microsoft reported in these quarters and how does it differ from period to period?,*MSFT*,Multi-Doc RAG,Table
+Has Microsoft announced any major new company acquisitions or sell-offs in these quarterly reports?,*MSFT*,Multi-Doc RAG,Text
+"In what ways have Microsoft's inventory levels shifted during these quarters, and what does this suggest about their management of the supply chain?",*MSFT*,Multi-Doc RAG,Table
+Have there been any significant updates or newly reported changes in Microsoft�s accounting principles in the quarterly reports?,*MSFT*,Multi-Doc RAG,Text
+Outline the risk elements associated with Microsoft's business and the evolution of these risks over the reporting timeframe.,*MSFT*,Multi-Doc RAG,Text
+How has NVIDIA's total net sales trended over time?,*NVDA*,Multi-Doc RAG,Table
+What are the principal reasons behind any changes in NVIDIA's gross margin in the most recent 10-Q compared to earlier quarters?,*NVDA*,Multi-Doc RAG,Text
+"Has there been a considerable shift in NVIDIA's operating costs over the reported quarters? If so, what are the main causes for this shift?",*NVDA*,Multi-Doc RAG,Table
+How has NVIDIA's revenue from its GPU sales varied across different quarters?,*NVDA*,Multi-Doc RAG,Table
+Can any consistent trends be identified in NVIDIA�s Data Center segment revenue across the reported periods?,*NVDA*,Multi-Doc RAG,Table
+What role have foreign exchange rates played in NVIDIA's financial outcomes? Please provide a breakdown for each reporting period.,*NVDA*,Multi-Doc RAG,Table
+What are the key changes in NVIDIA's liquidity status or cash flows as disclosed in these quarterly reports?,*NVDA*,Multi-Doc RAG,Table
+"Comparing the most recent quarter to previous ones, how has NVIDIA's investment in research and development changed and what might be the implications?",*NVDA*,Multi-Doc RAG,Table
+"What legal proceedings or uncertainties are presented in NVIDIA's quarterly reports, and how might they potentially affect the company?",*NVDA*,Multi-Doc RAG,Text
+"Has NVIDIA taken part in any significant share buyback initiatives within the reported quarters, and what are the financial effects of these initiatives?",*NVDA*,Multi-Doc RAG,Table
+Are there significant changes in NVIDIA�s debt profile or interest costs throughout these quarters?,*NVDA*,Multi-Doc RAG,Table
+"What has been NVIDIA's effective tax rate in these periods, and how does it compare with previous periods?",*NVDA*,Multi-Doc RAG,Table
+Does NVIDIA disclose any significant new business acquisitions or divestitures in its quarterly reports?,*NVDA*,Multi-Doc RAG,Text
+"How have NVIDIA's inventory levels changed during these quarters, and what might this indicate regarding their supply chain management?",*NVDA*,Multi-Doc RAG,Table
+Have there been any noteworthy changes or recent introductions in NVIDIA�s accounting policies as outlined in these 10-Qs?,*NVDA*,Multi-Doc RAG,Text
+"Summarize the risk factors to NVIDIA's business, and describe how they have transformed throughout the reporting period.",*NVDA*,Multi-Doc RAG,Text
+How has Intel's total net sales fluctuated over historical periods?,*INTC*,Multi-Doc RAG,Table
+What are the significant factors that have led to changes in Intel's gross margin in the latest 10-Q relative to past quarters?,*INTC*,Multi-Doc RAG,Text
+"Has there been a substantial shift in Intel's operating expenses over the reported quarters? If so, what have been the driving factors?",*INTC*,Multi-Doc RAG,Table
+How has Intel's revenue from chip sales seen variations across the quarters?,*INTC*,Multi-Doc RAG,Table
+Are there identifiable trends in Intel�s Data Center Group or IoT segment revenues over the reported periods?,*INTC*,Multi-Doc RAG,Table
+What impact have exchange rate fluctuations had on Intel's financial performance? Analyze this for each reported period.,*INTC*,Multi-Doc RAG,Table
+Have there been any remarkable changes in Intel's liquidity or cash flow positions as indicated in these 10-Q reports?,*INTC*,Multi-Doc RAG,Table
+"How does Intel's research and development spending in the most recent quarter compare to previous quarters, and what could be the potential impacts?",*INTC*,Multi-Doc RAG,Table
+"What legal proceedings or potential liabilities have been disclosed in Intel's 10-Qs, and how might they impact the company?",*INTC*,Multi-Doc RAG,Text
+"Has Intel engaged in any significant stock repurchase activities in the reported quarters, and what are the financial implications?",*INTC*,Multi-Doc RAG,Table
+Are there any significant alterations in Intel�s debt structure or interest costs over these quarters?,*INTC*,Multi-Doc RAG,Table
+"What is the reported effective tax rate for Intel in these quarters, and how does it fluctuate from one period to the next?",*INTC*,Multi-Doc RAG,Table
+Has Intel reported any significant business acquisitions or divestitures in these quarterly reports?,*INTC*,Multi-Doc RAG,Text
+"How have inventory levels at Intel changed over these quarters, and what might this suggest about their supply chain strategies?",*INTC*,Multi-Doc RAG,Table
+Are there any significant changes or new disclosures in Intel�s accounting practices as reported in these 10-Qs?,*INTC*,Multi-Doc RAG,Text
+"Outline the risk factors for Intel's business, and how they have evolved over the reporting periods.",*INTC*,Multi-Doc RAG,Text
+How has Amazon's total net sales changed over time?,*AMZN*,Multi-Doc RAG,Table
+What are the major factors contributing to the change in Amazon's gross margin in the most recent 10-Q compared to the previous quarters?,*AMZN*,Multi-Doc RAG,Text
+"Has there been any significant change in Amazon's operating expenses over the reported quarters? If so, what are the key drivers for this change?",*AMZN*,Multi-Doc RAG,Table
+How has Amazon's revenue from online retail services fluctuated across quarters?,*AMZN*,Multi-Doc RAG,Table
+Can any trends be identified in Amazon�s AWS (Amazon Web Services) segment revenue over the reported periods?,*AMZN*,Multi-Doc RAG,Table
+What is the impact of foreign exchange rates on Amazon's financial performance? List this out separately for each reported period.,*AMZN*,Multi-Doc RAG,Table
+Are there any notable changes in Amazon's liquidity position or cash flows as reported in these 10-Qs?,*AMZN*,Multi-Doc RAG,Table
+How does Amazon's R&D expenditure in the most recent quarter compare to previous quarters and what implications might this have?,*AMZN*,Multi-Doc RAG,Table
+What legal proceedings or contingencies are disclosed in these 10-Qs and how might they potentially impact Amazon?,*AMZN*,Multi-Doc RAG,Text
+Has Amazon engaged in any significant share repurchase activities in the reported quarters and what are the financial implications of these activities?,*AMZN*,Multi-Doc RAG,Table
+Are there any significant changes in Amazon�s debt structure or interest expenses across these quarters?,*AMZN*,Multi-Doc RAG,Table
+What is the effective tax rate reported by Amazon in these quarters and how does it compare across the periods?,*AMZN*,Multi-Doc RAG,Table
+Does Amazon report any significant new business acquisitions or divestitures in these 10-Qs?,*AMZN*,Multi-Doc RAG,Text
+How have Amazon's inventory levels changed across these quarters and what might this indicate about their supply chain management?,*AMZN*,Multi-Doc RAG,Table
+Are there any significant changes or new disclosures in Amazon�s accounting policies as reported in these 10-Qs?,*AMZN*,Multi-Doc RAG,Text
+"Summarize the risk factors to Amazon's business, and how they have changed over the reporting period.",*AMZN*,Multi-Doc RAG,Text
+What was the gross margin for Apple in the latest 10-Q report?,*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+How did Apple's operating expenses for Q1 2023 compare to its revenue for the same quarter?,*2023 Q1 AAPL*,Single-Doc Single-Chunk RAG,Table
+"In the second quarter of 2023, what was the primary driver behind the change in Apple's net income?",*2023 Q2 AAPL*,Single-Doc Single-Chunk RAG,Text
+"For the latest quarter, what was the total revenue generated from Apple's iPhone sales?",*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+What percentage of Apple�s total revenue did the Services segment contribute in Q3 2023?,*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+How did foreign exchange rates specifically affect Apple's financial performance in the most recent 10-Q?,*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Text
+What was Apple's cash flow from operating activities as reported in the Q3 2022 10-Q?,*2022 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+"In the first quarter of 2023, how much did Apple spend on research and development, and what was the focus of this expenditure?",*2023 Q1 AAPL*,Single-Doc Single-Chunk RAG,Text
+"What specific legal proceedings or potential liabilities were mentioned in Apple's Q2 2023 10-Q, and what is their potential impact?",*2023 Q2 AAPL*,Single-Doc Single-Chunk RAG,Text
+"Did Apple report any share repurchase activities in its Q3 2023 10-Q, and if so, what was the scale of these buybacks?",*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+What changes in debt structure or interest expenses did Apple disclose in the Q1 2023 10-Q?,*2023 Q1 AAPL*,Single-Doc Single-Chunk RAG,Table
+"What effective tax rate did Apple report in its latest quarterly filing, and how does this compare to the statutory tax rate?",*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+Were there any significant acquisitions or divestitures reported by Apple in the Q2 2023 10-Q?,*2023 Q2 AAPL*,Single-Doc Single-Chunk RAG,Text
+How did Apple's inventory levels in the Q3 2022 report reflect on their supply chain efficiency?,*2022 Q3 AAPL*,Single-Doc Single-Chunk RAG,Table
+"What significant accounting policy changes, if any, did Apple disclose in its most recent 10-Q?",*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Text
+"What risk factors did Apple highlight in its Q3 2023 10-Q, and what new or increased risks were emphasized?",*2023 Q3 AAPL*,Single-Doc Single-Chunk RAG,Text
+What was the reported gross margin for Microsoft in the most recent 10-Q filing?,*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+"In Q1 2023, how did Microsoft's operating expenses measure up against its revenue?",*2023 Q1 MSFT*,Single-Doc Single-Chunk RAG,Table
+"For Q2 2023, what was the chief factor affecting Microsoft's operating income?",*2023 Q2 MSFT*,Single-Doc Single-Chunk RAG,Text
+"What was the revenue from Microsoft's cloud services, including Azure, in the latest quarter?",*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+How much of Microsoft�s total revenue was attributed to its Personal Computing segment in Q3 2023?,*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+"In the latest 10-Q, what was the impact of currency fluctuations on Microsoft's financials?",*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Text
+What did Microsoft report as its net cash from operating activities in the Q3 2022 10-Q?,*2022 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+"How much has Microsoft invested in research and development in the first quarter of 2023, and what were the strategic priorities?",*2023 Q1 MSFT*,Single-Doc Single-Chunk RAG,Text
+Are there any legal proceedings or risks disclosed in Microsoft's Q2 2023 10-Q that could significantly impact the company?,*2023 Q2 MSFT*,Single-Doc Single-Chunk RAG,Text
+"Did Microsoft undertake any share repurchase programs in Q3 2023, and what was the magnitude?",*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+What details were provided about changes in Microsoft's debt and interest expenses in the Q1 2023 10-Q?,*2023 Q1 MSFT*,Single-Doc Single-Chunk RAG,Table
+"What was the effective tax rate for Microsoft as reported in the latest 10-Q, and how does it align with previous tax rates?",*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+"In the Q2 2023 10-Q, did Microsoft announce any major business acquisitions or spin-offs?",*2023 Q2 MSFT*,Single-Doc Single-Chunk RAG,Text
+What do the inventory levels in Microsoft's Q3 2022 report suggest about their product demand and supply management?,*2022 Q3 MSFT*,Single-Doc Single-Chunk RAG,Table
+Were there any significant changes in accounting policies reported by Microsoft in the most recent 10-Q?,*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Text
+"What risk factors were outlined by Microsoft in the Q3 2023 10-Q, particularly any new or escalating risks?",*2023 Q3 MSFT*,Single-Doc Single-Chunk RAG,Text
+What was NVIDIA's gross margin as stated in the most recent 10-Q report?,*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+How did NVIDIA's operating expenses compare to its revenues in Q1 2023?,*2023 Q1 NVDA*,Single-Doc Single-Chunk RAG,Table
+What were the main contributors to NVIDIA's net income in the second quarter of 2023?,*2023 Q2 NVDA*,Single-Doc Single-Chunk RAG,Text
+"In the latest quarter, what were the sales figures for NVIDIA's gaming and professional GPU segments?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+"For Q3 2023, what proportion of NVIDIA�s revenue was generated by its data center business?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+How did exchange rate changes impact NVIDIA's financials as detailed in the latest 10-Q?,*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Text
+What was NVIDIA's operating cash flow as revealed in the Q3 2022 10-Q?,*2022 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+"How much did NVIDIA allocate to research and development in Q1 2023, and what were the key areas of focus?",*2023 Q1 NVDA*,Single-Doc Single-Chunk RAG,Text
+"What legal proceedings or contingent liabilities were disclosed in NVIDIA's Q2 2023 10-Q, and what impact could they have?",*2023 Q2 NVDA*,Single-Doc Single-Chunk RAG,Text
+"Has NVIDIA reported any significant stock repurchase activities in its Q3 2023 10-Q, and what scale did these take?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+What changes in debt and interest expense were reported by NVIDIA in the Q1 2023 10-Q?,*2023 Q1 NVDA*,Single-Doc Single-Chunk RAG,Table
+"What effective tax rate was reported by NVIDIA in the latest quarter, and how does it relate to the company's historical tax rates?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+Did NVIDIA disclose any significant acquisitions or divestitures in the Q2 2023 10-Q?,*2023 Q2 NVDA*,Single-Doc Single-Chunk RAG,Text
+How have NVIDIA's inventory levels for the Q3 2022 period adapted to market demands?,*2022 Q3 NVDA*,Single-Doc Single-Chunk RAG,Table
+"What significant changes, if any, in accounting practices were reported by NVIDIA in its most recent 10-Q?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Text
+"Which risk factors were highlighted by NVIDIA in its Q3 2023 10-Q, especially those that are new or have intensified?",*2023 Q3 NVDA*,Single-Doc Single-Chunk RAG,Text
+What was Intel's gross margin as reported in their latest 10-Q?,*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+"In Q1 2023, how did Intel's operational spending relate to its revenue figures?",*2023 Q1 INTC*,Single-Doc Single-Chunk RAG,Table
+What were the key factors influencing Intel's net income in Q2 2023?,*2023 Q2 INTC*,Single-Doc Single-Chunk RAG,Text
+What revenue did Intel report from its semiconductor sales in the most recent quarter?,*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+How significant was the revenue from Intel's data-centric businesses in Q3 2023 relative to total revenue?,*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+"In the latest 10-Q, what effects did currency fluctuations have on Intel's financial statements?",*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Text
+What were the cash flow from operations figures for Intel as per the Q3 2022 10-Q?,*2022 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+"What was Intel's R&D expenditure in Q1 2023, and which initiatives were prioritized?",*2023 Q1 INTC*,Single-Doc Single-Chunk RAG,Text
+"What legal issues or potential liabilities were reported in Intel's Q2 2023 10-Q, and what could be their impact?",*2023 Q2 INTC*,Single-Doc Single-Chunk RAG,Text
+"Has Intel engaged in any significant stock repurchases as reported in the Q3 2023 10-Q, and what was the volume of these transactions?",*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+"In the Q1 2023 10-Q, what details did Intel provide about changes to its debt structure and interest expenses?",*2023 Q1 INTC*,Single-Doc Single-Chunk RAG,Table
+"What was the effective tax rate for Intel as stated in the most recent 10-Q, and how does this compare to previous quarters?",*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+Were there any significant business acquisitions or divestitures mentioned by Intel in the Q2 2023 10-Q?,*2023 Q2 INTC*,Single-Doc Single-Chunk RAG,Text
+What insights into inventory management could be gleaned from Intel's Q3 2022 inventory levels?,*2022 Q3 INTC*,Single-Doc Single-Chunk RAG,Table
+Did Intel announce any significant changes to its accounting policies in the latest 10-Q?,*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Text
+"What were the risk factors identified by Intel in its Q3 2023 10-Q, especially any that are newly emerging or increasing?",*2023 Q3 INTC*,Single-Doc Single-Chunk RAG,Text
+What was Amazon's gross margin in the most recent 10-Q filing?,*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+How did Amazon's operational expenditures stack up against its earnings in Q1 2023?,*2023 Q1 AMZN*,Single-Doc Single-Chunk RAG,Table
+What were the principal influences on Amazon's operating income as reported in Q2 2023?,*2023 Q2 AMZN*,Single-Doc Single-Chunk RAG,Text
+What was the reported revenue from Amazon's e-commerce and AWS segments in the latest quarter?,*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+"In Q3 2023, what was the revenue breakdown across Amazon�s various service offerings?",*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+"In the latest 10-Q, how did foreign exchange rates affect Amazon's financials?",*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Text
+What cash flows from operations were disclosed by Amazon in the Q3 2022 10-Q?,*2022 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+"In the first quarter of 2023, what was Amazon's R&D expenditure, and what were the strategic focuses of these investments?",*2023 Q1 AMZN*,Single-Doc Single-Chunk RAG,Text
+"What legal proceedings or potential risks were mentioned in Amazon's Q2 2023 10-Q, and how could they affect the company?",*2023 Q2 AMZN*,Single-Doc Single-Chunk RAG,Text
+"Did Amazon report any major stock buybacks in its Q3 2023 10-Q, and what was the extent of these repurchases?",*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+What changes in debt and interest obligations did Amazon disclose in the Q1 2023 10-Q?,*2023 Q1 AMZN*,Single-Doc Single-Chunk RAG,Table
+"What effective tax rate did Amazon report in its latest quarterly statement, and how does it compare to the tax rates in previous quarters?",*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+"In the Q2 2023 10-Q, did Amazon make any significant announcements regarding acquisitions or divestments?",*2023 Q2 AMZN*,Single-Doc Single-Chunk RAG,Text
+What do the inventory levels reported in Amazon's Q3 2022 10-Q suggest about their logistics and inventory management?,*2022 Q3 AMZN*,Single-Doc Single-Chunk RAG,Table
+Were there any significant alterations to Amazon's accounting policies as reported in the most recent 10-Q?,*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Text
+"Which risk factors were highlighted in Amazon's Q3 2023 10-Q, and which ones have newly arisen or increased since the last report?",*2023 Q3 AMZN*,Single-Doc Single-Chunk RAG,Text
+How does Apple's revenue distribution among different product segments in the latest 10-Q compare to their respective cost of sales for those segments? ,*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"In Apple's Q1 2023 10-Q, what is the correlation between Apple's R&D expenditure and the new products or services introduced by the company? ",*2023 Q1 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"For Apple's Q2 2023 report, analyze the relationship between Apple's revenue from international markets and its segment on foreign currency risk to understand the company's exposure to currency fluctuations. ",*2023 Q2 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"From Apple's most recent 10-Q, how do the insights from the liquidity and capital resources section correlate with the reported changes in Apple's cash flow from operations? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"In Apple's Q3 2023 10-Q, analyze how the reported changes in Apple's inventory levels relate to the discussion in their supply chain and logistics section. ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"In Apple's Q3 2022 10-Q, how does the information about legal contingencies relate to the financial provisions or reserves set aside by Apple for these potential liabilities? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"From the latest 10-Q, how does Apple's discussion on market risk in the financial section align with the risk factors mentioned in the company's business overview? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"In Apple's Q1 2023 10-Q, combine the data on Apple's debt instruments from the financial statements with the management discussion to understand their debt management strategy. ",*2023 Q1 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"For Apple's Q2 2023, how do the details from the revenue recognition policies section relate to Apple's reported segment revenues? ",*2023 Q2 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"In the most recent 10-Q, analyze how Apple's reported tax rate in the financial statements section correlates with the discussion on tax contingencies in the notes. ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"From Apple's Q3 2023 10-Q, how does the information in the operational expenses section relate to the insights shared in Apple's segment reporting? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"In Apple's Q3 2022 report, compare the data on capital expenditures in the financial statements with the discussion on future investment plans in the company's management's discussion section. ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"In the latest 10-Q, how does the revenue from new product launches by Apple compare with the company's marketing and advertising expenses? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"For Apple's Q1 2023, combine the share repurchase data from the financial statements with the equity section in the management discussion to understand Apple's shareholder value strategy. ",*2022 Q1 AAPL*,Single-Doc Multi-Chunk RAG,Table
+"In Apple's Q2 2023 10-Q, how does the discussion on employee compensation in the human resources section relate to the reported expenses in the financial statements? ",*2023 Q2 AAPL*,Single-Doc Multi-Chunk RAG,Text
+"From the most recent 10-Q, how does Apple's environmental commitments section relate to the expenses and investments reported in the financial statements related to sustainability initiatives? ",*2023 Q3 AAPL*,Single-Doc Multi-Chunk RAG,Text
+How does Microsoft's revenue distribution across its various business segments in the latest 10-Q compare to the cost of sales for those segments?,*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"In Microsoft's Q1 2023 10-Q, what relationship can be seen between Microsoft's R&D spending and the introduction of new software or services?",*2023 Q1 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"For Microsoft's Q2 2023 report, assess the connection between Microsoft's earnings from international markets and the discussion on currency risk in the financial section.",*2023 Q2 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"From Microsoft's most recent 10-Q, how does the information in the liquidity and capital resources section relate to the reported changes in cash flow from operations?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"In Microsoft's Q3 2023 10-Q, how do the reported shifts in inventory levels correspond with the supply chain management strategies outlined in the report?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"In Microsoft's Q3 2022 10-Q, how does the information on legal contingencies connect with financial reserves or provisions made by Microsoft for these liabilities?",*2022 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"From the latest 10-Q, how does Microsoft's discussion on market risk and financial instruments align with the risk factors outlined in the business overview?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"In Microsoft's Q1 2023 10-Q, how do the details of Microsoft's debt instruments from the financial statements correspond with the management's discussion on debt management?",*2023 Q1 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"For Microsoft's Q2 2023, how do the details in the revenue recognition policies section relate to the reported revenues from different business segments?",*2023 Q2 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"In the most recent 10-Q, how does Microsoft's stated tax rate in the financial statements compare with the discussion on tax issues in the notes?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"From Microsoft's Q3 2023 10-Q, how does the operational expenses section relate to the segment reporting and insights shared?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"In Microsoft's Q3 2022 report, compare the capital expenditures data in the financial statements with the future investment plans discussed in the management section.",*2022 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"In the latest 10-Q, how does the revenue from Microsoft's new product launches compare with its marketing and advertising expenses?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"For Microsoft's Q1 2023, how does the share repurchase information in the financial statements align with the equity section in the management's discussion?",*2022 Q1 MSFT*,Single-Doc Multi-Chunk RAG,Table
+"In Microsoft's Q2 2023 10-Q, how does the employee compensation discussion in the human resources section relate to the reported financial expenses?",*2023 Q2 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"From the most recent 10-Q, how does Microsoft's section on environmental, social, and governance commitments relate to the expenses and investments reported in the financial statements for sustainability initiatives?",*2023 Q3 MSFT*,Single-Doc Multi-Chunk RAG,Text
+"In NVIDIA's latest 10-Q, how does the revenue distribution across its product lines compare to the costs associated with those products?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"For NVIDIA's Q1 2023 10-Q, what is the relationship between R&D spending and the development of new GPU technologies or services?",*2023 Q1 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"In NVIDIA's Q2 2023 report, analyze how revenue from global markets relates to the discussion on currency risk and exchange rate fluctuations.",*2023 Q2 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"From NVIDIA's most recent 10-Q, how do the details in the liquidity and capital resources section compare with the changes in cash flow from operations reported?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"In NVIDIA's Q3 2023 10-Q, compare the reported changes in inventory levels with the supply chain and logistics strategies discussed in the report.",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Text
+How does the information on legal contingencies in NVIDIA's Q3 2022 10-Q correlate with the financial reserves set aside for these liabilities?,*2022 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"In the latest 10-Q, how does NVIDIA's discussion on market risk in the financial section align with the risk factors outlined in the business overview?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"For NVIDIA's Q1 2023 10-Q, compare the details of debt instruments in the financial statements with the management discussion on debt management strategies.",*2023 Q1 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"In NVIDIA's Q2 2023, how does the revenue recognition policy section relate to the reported revenues from various business segments?",*2023 Q2 NVDA*,Single-Doc Multi-Chunk RAG,Text
+Analyze how NVIDIA's reported tax rate in the most recent 10-Q correlates with the discussion on tax contingencies in the notes.,*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"From NVIDIA's Q3 2023 10-Q, how does the operational expenses section relate to the insights shared in the segment reporting?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"In NVIDIA's Q3 2022 report, compare the data on capital expenditures with the future investment plans discussed in the management's discussion section.",*2022 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"In the latest 10-Q, how does the revenue from NVIDIA's new product launches compare with its marketing and advertising expenses?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"For NVIDIA's Q1 2023, how does the share repurchase information in the financial statements correlate with the equity section in the management discussion?",*2022 Q1 NVDA*,Single-Doc Multi-Chunk RAG,Table
+"In NVIDIA's Q2 2023 10-Q, how does the discussion on employee compensation in the human resources section relate to the reported financial expenses?",*2023 Q2 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"From the most recent 10-Q, how does NVIDIA's section on ESG commitments relate to the expenses and investments reported in the financial statements for sustainability initiatives?",*2023 Q3 NVDA*,Single-Doc Multi-Chunk RAG,Text
+"In Intel's latest 10-Q, how does the revenue distribution among different semiconductor product lines compare to the costs associated with these products?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Table
+"For Intel's Q1 2023 10-Q, what is the connection between R&D expenditures and the introduction of new chip technologies or services?",*2023 Q1 INTC*,Single-Doc Multi-Chunk RAG,Text
+"In Intel's Q2 2023 report, analyze the relationship between global market revenues and the discussion on foreign exchange risk.",*2023 Q2 INTC*,Single-Doc Multi-Chunk RAG,Text
+"From Intel's most recent 10-Q, compare the liquidity and capital resources information with the reported changes in cash flow from operations.",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Text
+"In Intel's Q3 2023 10-Q, how do changes in inventory levels correspond with the strategies discussed in the supply chain management section?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Text
+How does the information about legal contingencies in Intel's Q3 2022 10-Q relate to the financial reserves allocated for these potential liabilities?,*2022 Q3 INTC*,Single-Doc Multi-Chunk RAG,Text
+"In the latest 10-Q, how does Intel's discussion on market risks in the financial section align with the risk factors described in the business overview?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Text
+"For Intel's Q1 2023 10-Q, correlate the details of debt instruments in the financial statements with the management discussion on debt strategy.",*2023 Q1 INTC*,Single-Doc Multi-Chunk RAG,Table
+"In Intel's Q2 2023, how do the revenue recognition policies relate to the reported revenues from various business segments?",*2023 Q2 INTC*,Single-Doc Multi-Chunk RAG,Text
+Examine how Intel's effective tax rate in the most recent 10-Q compares with the tax-related discussions in the notes section.,*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Table
+"From Intel's Q3 2023 10-Q, how do the operational expenses details relate to the insights in the segment reporting?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Table
+"In Intel's Q3 2022 report, compare the capital expenditure data with future investment plans outlined in the management's discussion.",*2022 Q3 INTC*,Single-Doc Multi-Chunk RAG,Table
+"In the latest 10-Q, how does the revenue from Intel's new product launches compare with its marketing and advertising expenses?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Table
+"For Intel's Q1 2023, how does the share repurchase data in the financial statements align with the equity section in the management discussion?",*2023 Q1 INTC*,Single-Doc Multi-Chunk RAG,Table
+"In Intel's Q2 2023 10-Q, how does the employee compensation section in the human resources area relate to the reported financial expenses?",*2023 Q2 INTC*,Single-Doc Multi-Chunk RAG,Text
+"From the most recent 10-Q, how do Intel's commitments in ESG areas relate to the expenses and investments reported in the financial statements for sustainability efforts?",*2023 Q3 INTC*,Single-Doc Multi-Chunk RAG,Text
+"In Amazon's latest 10-Q, how does the revenue distribution across its diverse business segments like e-commerce, AWS, and others compare to the costs incurred in these segments?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"For Amazon's Q1 2023 10-Q, what is the relationship between R&D expenditures and the launch of new services or expansion of existing ones?",*2023 Q1 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"In Amazon's Q2 2023 report, examine the correlation between revenues from international markets and the discussion on currency exchange risks.",*2023 Q2 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"From Amazon's most recent 10-Q, compare the liquidity and capital resources section with the reported changes in cash flows from operations.",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"In Amazon's Q3 2023 10-Q, how do the changes in inventory levels reflect the supply chain management strategies discussed in the report?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Text
+How does the information about legal proceedings in Amazon's Q3 2022 10-Q relate to financial provisions or reserves set for these liabilities?,*2022 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"In the latest 10-Q, how does Amazon's discussion on market risks in the financial section align with the risk factors mentioned in the company's business overview?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"For Amazon's Q1 2023 10-Q, align the details of debt and financing instruments in the financial statements with the management discussion on financial strategy.",*2023 Q1 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"In Amazon's Q2 2023, how does the revenue recognition policy section relate to the reported revenues from different business units?",*2023 Q2 AMZN*,Single-Doc Multi-Chunk RAG,Text
+Analyze how Amazon's effective tax rate reported in the most recent 10-Q compares with the tax-related discussion in the notes section.,*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"From Amazon's Q3 2023 10-Q, how does the operational expenses section relate to the insights provided in segment reporting?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"In Amazon's Q3 2022 report, compare the data on capital expenditures with the future investment plans discussed in the management's discussion section.",*2022 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"In the latest 10-Q, how does the revenue from Amazon's new ventures or product launches compare with its marketing and advertising expenses?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"For Amazon's Q1 2023, how does the share repurchase information in the financial statements correlate with the equity section in the management discussion?",*2023 Q1 AMZN*,Single-Doc Multi-Chunk RAG,Table
+"In Amazon's Q2 2023 10-Q, how does the discussion on employee compensation and benefits in the human resources section relate to the reported financial expenses?",*2023 Q2 AMZN*,Single-Doc Multi-Chunk RAG,Text
+"From the most recent 10-Q, how do Amazon's commitments to ESG initiatives relate to the expenses and investments reported in the financial statements for sustainability projects?",*2023 Q3 AMZN*,Single-Doc Multi-Chunk RAG,Text
