@@ -1,4 +1,4 @@
-# Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets
+# Docugami Knowledge Graph Retrieval Augmented Generation (KG-RAG) Datasets
 
 This repository contains various datasets for advanced RAG over a multiple documents. We created these since we noticed that existing eval datasets were not adequately reflecting RAG use cases that we see in production. Specifically, they were doing Q&A over a single (or just a few) docs when in reality customers often need to RAG over larger sets of documents.
 
