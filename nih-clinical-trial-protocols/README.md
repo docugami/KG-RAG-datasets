@@ -1,5 +1,8 @@
 # NIH Clinical Trial Protocols
 
+
+> Status: DRAFT (documents only, qna_data in progress)
+
 Downloaded from clinicaltrials.gov using this query: https://clinicaltrials.gov/search
 
 Settings: 

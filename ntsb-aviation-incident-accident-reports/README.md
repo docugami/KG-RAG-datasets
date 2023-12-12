@@ -1,5 +1,7 @@
 # NTSB Aviation Incident Accident Reports
 
+> Status: DRAFT (documents only, qna_data in progress)
+
 Downloaded from ntsb.gov using this page: https://www.ntsb.gov/Pages/AviationQueryv2.aspx
 
 Settings:
