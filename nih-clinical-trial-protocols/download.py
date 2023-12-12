@@ -4,7 +4,7 @@ import os
 from urllib.parse import urlparse
 
 # The path to your CSV file - update this as needed
-csv_file_path = "docs_data.csv"
+csv_file_path = "download.csv"
 
 # Load the CSV file into a DataFrame
 df = pd.read_csv(csv_file_path)

@@ -9,7 +9,7 @@ Settings:
 3. Accident/Incident Information -> United States
 3. NTSB Status -> Report Status: Done
 
-The downloaded file was saved as `docs_data.csv` and only 20 data rows were kept.
+The downloaded file was saved as `download.csv` and only 20 data rows were kept.
 
 The files were then downloaded using:
 

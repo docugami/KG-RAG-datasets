@@ -1,0 +1,272 @@
+Question,Answer
+How much did product revenue grow in Q1 Fiscal 2023?,"Product revenue grew 84% year-on-year to $394 million.
+
+Source: Q1 2023 Earning Call, pg 2"
+For Snowflake what was the new expiration date of the modified lease in May 2022?,"There doesn't seem to be information on a lease in the earnings call documents. 
+
+Source: N/A"
+What is the implied gross margin for the full year that was disclosed on the Q3 2021 Snowflake Earnings call?,"We expect on a non-GAAP basis 68% product gross margin
+
+Source:Q3 2021 Earnings Call, pg 5"
+Please list all of the conclusions from the times Snowflake has discussed Snowpark.,"From the Q2 2022 Earnings Call: 
+
+""The following milestones, we think, are worthy of note. In Q2, we announced public preview availability in all AWS regions of Snowpark, our new developer experience. Snowpark enables developers to work in their preferred programming language and formats, including Java and Scala. Snowpark is designed to make building complex data pipelines and applications easy and allow developers to interact with Snowflake directly without having to extract data, maximizing governance. The Snowpark Accelerated program has over 50 partners enrolled to bring their capabilities and innovations across data science, data engineering and security to Snowpark. In the future, Snowpark will add support for Python and expand to Azure and Google Cloud regions. Python is the most widely used programming language for machine learning and data science generally. ""
+
+Source: Q2 2022 Earnings Call"
+Summarize all the conclusions from Snowflake on Snowpark.,"From the Q3 2022 Earnings Call:
+
+1. ""Snowpark Accelerated provides partners
+with access to technical experts and market exposure to Snowflake customers. Snowpark provides programming
+language choice to Snowflake's data cloud. Customers can access prebuilt partner capabilities and integrations. It is
+leveraged by companies such as DataIQ, DataRobot and H2O.ai.""
+
+2. ""With Snowpark for Python, developers will be able to easily program with a lightly
+popular language. They can also leverage the security governance and performance of Snowflake. Snowpark for Python
+is currently in private preview. During the quarter, Snowflake invested in Anaconda to bring enterprise-grade Python
+capabilities to the data cloud. Together, we enabled the Python community to build secure data pipelines and machine
+learning capabilities. The Anaconda partnership will enhance the Snowpark experience to extend programmability with
+Snowflake.""
+
+Source: Q3 2022 Earnings Call"
+How fast is Snowflake Product Revenue growing? Please prioritize the most recent document,"The company is reporting $523 million in product revenue, growing 67% year-on-year - Q3 2023
+
+Source: Q3 2023 Earnings Call, pg 2"
+What were product revenues in Q2 2022?,"We saw a continued momentum in Q2 with 103% year-on-year growth to $255 million in product revenues
+
+Source: Q2 2022 Earnings Call, pg 2"
+What verticals were discussed in the Q2 2023 earnings call?,"Core verticals are financial services, advertising, media and entertainment, retail and CPG, technology and healthcare and life sciences. 
+
+Source: Q2 2023 Earnings Call, pg 4"
+What is the expected product gross margin for the full year 2023?,"74.5% on a non-GAAP basis
+
+Source: Q4 2022 Earnings Call"
+How much were product revenues and what was the year over year growth in Q4  2022?,"Q4 product revenues were $360 millions, representing 102% year-over-year growth.
+
+Source: Q4 2022 Earnings Call, pg 3"
+"By what percentage did product revenue grow, quarter over quarter, in fiscal year 2023?","
+Q1 2023 product revenues: $394,000,000
+Q2 2023 product revenues: $466,000,000
+Q3 2023 product revenues: $523,000,000
+
+The calcuated % of product revenue growth quarter-over-quarter is then: 
+
+18.3% and 12.2%, respectively. 
+
+Sources:
+Q1 2023 Earnings Call, pg 2
+Q2 2023 Earnings Call, pg 2
+Q3 2023 Earnings Call, pg 2"
+What were product revenues in Q3 2023?,"$523 million in product revenue
+
+Source: Q3 2023 Earnings Call, pg 2"
+What is Snowflake's cash position as of the Q3 2023 earnings call? ,"$4.9 billion in cash
+
+Source: Q3 2023 Earnings Call, pg 4"
+What is the status of Snowflake's acquisition of Streamlit?,"Acquisition completed. From the Q1 2023 Earnings Call: ""With Streamlit, we are enabling develops to build apps using their favorite toll and with simplified data access and governance."".
+
+Source: Q1 2023 Earnings Call, pg 3"
+Summarize acquisitions described in the Q2 2023 earnings call,"Two acquisitions are described:
+
+1. Streamlit, which enables developers to build applications using their favorite tools. 
+
+2. Applica, which mobilizes unstructured data for advanced analytics and machine learning. 
+
+Source: Q2 2023 Earnings Call, pg 3"
+How many Global 2000 customers were added each quarter in 2023?,"Q1 2023: 16
+Q2 2023: 12
+Q3 2023: 28
+
+
+Sources:
+
+Q1 2023 Earnings Call, pg 2
+Q2 2023 Earnings Call, pg 2
+Q3 2023 Earnings Call, pg 3"
+What is the net revenue retention rate discussed in the Q3 2023 earnings call?,"Net revenue retention rate of 165%
+
+Source: Q3 2023 Earnings Call, pg 4"
+"In fiscal year 2023, what was the typical length of a sales cycle?","1-2 year sales cycles
+Source: Q3 2023 Earnings Call, pg 11
+
+"
+"As of Q3 2023, what is biggest unknown in terms of what percentage of RPO will be recognized as revenue in the next 12 months?","Whether or not customers will do multiyear deals or just choose to renew for 1 year. 
+
+Snowflake's CFO states that of the $3 billion is RPO, they expect about 55% to be recognized as revenue in the next year.  Later in the call, in response to a question, he states ""And I should say, from a current RPO, the big question is, is whether customers in this environment will do multiyear deals or just choose to renew for 1 year, which they have the option to do as well, too. ""
+
+Source: Q3 2023 Earnings Call, pg 12"
+"In the Q4 2022 earnings call, why is Snowflake not factoring in revenue for Streamlit?","Revenue is not being factored in because a product won't be ready on Streamlit. As stated : ""Yes. There is about $25 million in expenses associated with Streamlit. There is no revenue. Streamlit has no -- or it's de minimis. It's less than $100,000, and we won't be having a product ready on Streamlit until the end of the year. So we're not factoring any revenue. It could come sooner.""
+
+Source: Q4 2022 Earnings Call, pg 8"
+Which participants attended all earnings calls in fiscal year 2023?,"Christian Kleinerman
+Frank Slootman
+Jimmy Sexton
+Michael Scarpelli
+Brad Robert Reback
+Brent Alan Bracelin
+Gregg Steven Moskowitz
+James Derrick Wood
+Kamil Mielczarek
+Raimo Lenschow
+Stewart Kirk Materne
+
+Source: Earnings Calls pg1 for Q1, Q2, Q3 2023 "
+"In Q3 2023, which industry was making the most impact in terms of data networking?","Financial services was cited as having the most stables edges, with healthcare services and media and entertainment being cited as well. 
+
+Source: Q3 2023 Earnings Call, pg 6"
+How has Instacart impacted the success of Retail CPG?,"""And things like Instacart have really helped because they run catalogs across all these stores. They know exactly what's there, what's not there, and that's sort of the new value that's brought in terms of data to these verticals.""
+
+Source: Q2 2022 Earnings Call"
+"As of Q2 2022, how does China factor into Snowflake's cloud expansion strategy?","In response to a question asked about the Asia Pacific region, Frank responds ""Let me just say, first off, we have made a decision as a company that we need to move into China. That's because China is now integral to the world economy. It's not a separate market, and our largest customers are demanding, insisting that we be there.""
+
+Source: Q2 2022 Earnings Call"
+"As of Q2 2022, what is delaying customers in moving off of traditional data warehousing?","Contract length
+
+""I'll also add, Raimo, too, it's not just Teradata. There's piles of Hadoop on-prem, Cloudera that we are doing. And we're in discussions with many customers who still have multiple years left on those contracts, but they're all in discussions to move to Snowake. It'll take a number of years.""
+
+Source: Q2 2022 Earnings Call"
+How will Snowpark help drive customer adoption of the applications developers build?,"Data governance.
+
+""One of the biggest challenges that application developers face today is the notion of data governance where they need to get customers to trust them and share the data with them. What we are enabling is bringing those applications to operate within the governance and security perimeter of Snowflake..""
+
+Source: Q2 2022 Earnings Call "
+"As of Q1 2023, what business investments does Snowflake believe will set up the business for the next 10-20 years?","""And we're going to continue to invest in our business. But as I mentioned, we've done this all the time where we make ecient investments.
+There is no waste in Snowake. There never has been in the last 2.5 years, and it won't be going forward. But there's a great opportunity in front of us. We're continuing to invest very heavily in R&D, and we're investing very heavily in the go-to- market function. And we will continue to do that, but we're going to do it eciently and continue to show leverage in our model. And we're very focused on free cash ow.
+We're also in the envious position that we're sitting on over $5 billion today, and we will be opportunistic because we're doing this for the long term, not for the next 2 quarters or 3 quarters or however long this macro uncertainty is going to last, but we're going to set ourselves up for the next 10, 20 years.""
+
+Source: Q1 2023 Earnings Call"
+"Based on free cash flow for Q1 2023, how does the anticipated 2023 full year cash flow compare to previous year's cash flow?","""Well, I'd say, I think we were probably overly conservative last year. We just -- as a reminder, we just did 43% free cash flow this recent quarter, which is skewed, but I feel very good about 16%-plus for the full year this year. And as I mentioned, we're going to continue to show leverage every year, and I'm not -- collecting cash from our customers is not an issue.""
+
+Source: Q1 2023 Earnings Call"
+Are there any public sector opportunities that Snowflake anticipates investing in as of 2023?,"""Our opportunity is incredibly broad-based. I mean there's still verticals where we're not very well penetrated as well. For example, the public sector, especially federal government. I shouldn't say there are parts of the federal -- the public sector where we're doing quite well, where we are making investments because over the long haul, we really plan to have a very, very large business in those sectors. But that's not something you sort of turn on and off on a dime. Once you're on an investment process there, you've got to -- you have to stick with it.""
+
+Source: Q1 2023 Earnings Call"
+"As of Q1 2023, what are customer consumption trends within their contract periods?","""Yes. So just to be clear, we still are seeing our customers consume their contracted amount well within their contract period. Actually, one of our largest customers who signed a 3-year $100 million deal, we've already invoiced them for their third year when we're still in the second year. And I don't see that changing for our customers because most of our customers have, historically, and I still see that happening, consuming within their contract period. I just don't see that changing right now.""
+
+Source: Q1 2023 Earnings Call"
+What are Snowflake's CFO's expectations for their net revenue rate as of Q1 2023?,"""As I said in the past, I don't expect the net revenue retention to stay at this extremely high rate. I do think it will come down over time. It will come down gradually over time, but I don't see it increasing. And I mentioned that last quarter. And I do think that will continue to come down, but it will remain well above 130% for a very long time.""
+
+Source: Q1 2023 Earnings Call"
+Summarize Snowflake's response to whether their is overlap between the $1 million customers and the Fortune 500 base,"""I mean, we are -- we have footprint, but we're very marginally penetrated, which is great. That's exactly what we look for. We typically -- when we started out with customers, whether it's Fortune 500 or otherwise, it's whole process that spans a long period of time. It's a journey. It's a relationship that you're going their legacy workows, their new projects and then it's something that grows and grows and grows. And you very clearly see that in our net revenue retention rates, that people are literally evolving and learning and expanding as they go along. They may not have a very clear view of what they will be doing when, but they're literally learning and exploring as they go along.
+The other thing that I would say is that we shouldn't sort of view things in the historical way that all the money is going to come from Fortune 500 companies. That is absolutely not the case. I mean you'd be stunned if you look at the number of customers who are not Fortune 500 and how high the revenue contribution is. And that's because these are newer enterprises, they are more in the cloud, digital direct-to-consumer oriented, and they have a very different culture towards data and a very different orientation. They will denitely feature very, very prominently in our business mix. It doesn't mean that Fortune 500 isn't important. It obviously is. But their adoption as traditional enterprises is often not as fast as the newer entities that we're dealing with.""
+
+Source: Q3 2022 Earnings Call"
+"What are the drivers of customers' consumption patterns, as of Q3 2022?","Business cycles and growth patterns.
+
+""In many cases, consumption is driven by our customers' own business cycles and growth patterns. In Q4 of last year, some of our largest customers experienced tremendous business growth.""
+
+Source: Q3 2022 Earnings Call"
+What impact has Salesforce had on Snowflake?,"As mentioned in the Q3 2021 earnings call, Salesforce is cited as being the #1 partner that has helped stimulate activity. 
+
+Source: Q3 2021 Earnings Call"
+"In 2021, when was demand for Snowflake higher? ","In the Q3 2021 earnings call, Frank explains that demand sentiment was stronger in the first half of the year, due to COVID. 
+
+Source: Q3 2021 Earnings Call"
+"In 2021, how did Snowflake's Q3 RPO impact expected Q4 revenue growth?","It didn't. In response to this question in the Q3 2021 earnings call, Frank responds No. 
+
+Source Q3 2021 Earnings Call"
+"As of Q3 2021, what data sharing trends was Snowflake seeing among customers?","23% of customers using data sharing
+
+Source: Q3 2021 Earnings Call"
+"In the Q3 2021 earnings call, why does Snowflake not have to prioritize its own products?","So we're not going to be a company where we have our own flavor of everything and our partners are all going to be secondary. We want to actively encourage development on our platform, participation on our platform because, again, we're a consumption company. So the way we drive our strategy is to drive activity on our platform, right? I mean if we get activity on our platform, whether our product drives it or a partner drives it, it yields the same result, right? So we'd be crazy to -- because the way our model works, we don't have to prioritize our own products.
+
+Source: Q3 2021 Earnings Call"
+What is the difference in Snowflake's cash position between Q3 2021 and Q3 2023?,"Q3 2021 = $5.1B
+Q3 2023 = $4.9B"
+"As of Q2 2022, what was the partner growth (including GSIs) that Snowflake saw since the previous year?","3x. ""And I think the number of those partners, including GSIs, is up 3x from what it was last year.""
+
+Source: Q2 2022 Earnings Call"
+"In 2022, what factor was impacting slow adoption in the public sector?",Restrictions that are part of the Federal government. 
+"As of 2022, how was existing the infrastructure of the public sector impacting slow adoption?","""Well, I mean there are verticals like, for example, I mean, we talked about this on previous calls, the contribution we're getting from public sector is not where we think it will eventually be under real structural reasons, why that is so. And we're solving for those issues, and that business will come along. But there is a lot of friction. I mean we're dealing with infrastructure that has existed for a very long period of time, is completely grafted into operational processes.
+You don't just unplug that stuff and plug something in and you're off to the races, right? These are generational shifts and transitions that enterprises are taking. So it's not like throwing a switch, these are very, very carefully orchestrated transitions over a long period of time. It takes a lot of resources. It takes a lot of people""
+
+Source: Q3 2022 Earnings Call"
+"As of 2022, how did going through marketplace impact RPO?","""So some customers choose to go through marketplace. Others choose to go direct. They generally choose to go to marketplace so they can draw down their commit with the cloud provider, that would still show up in RPO because we still get the contract from the customer. We just do the invoicing and everything through marketplace for them.""
+
+Source: Q3 2022 Earnings Call"
+"As of 2022, how does Snowflake's business model allow customers to see value without having to be concerned about the cost of consumption?","""One of the great things about running a consumption model is that we charge back who is spending the compute, which business unit. So business units can decide where they want to run those workloads, how often they want to run it, how they want to provision it. So they're really in charge. It's not sort of a runaway utility model. People can selectively decide which workloads they want to run and what is the business case for it. And that's the way it's supposed to work.
+That really mitigates the sticker shock. If people can make investment decisions as they go along and as who owns it. We're seeing with some of our large banking customers, they went from recomputing loan rates on a monthly basis. They're doing it every night. Well, they had a business case for it. Does it cost money? Yes, it costs money.
+""
+
+Source: Q3 2022 Earnings Call"
+"In 2022, which verticals did Snowflake do the best in? ","Financial services and media were cited as verticals in which Snowflake did exceptionally well in. 
+
+Source: Q3 2022 Earnings Call, pg 19"
+"In 2020, where and how was Snowflake planning to execute on data cloud growth?","1. ""For fiscal 2022, our focus is to turbocharge our Snowflake Data Cloud with massive workload execution, expansions and
+refinements as well as expand our data federation with numerous new additions to the Snowflake Marketplace.""
+
+2. ""While our selling motions address some of the world's smallest as well as largest data estates in the world, we will have continued emphasis on landing and expanding in the largest enterprises and institutions, not just in the Americas, but
+also in EMEA and Asia Pacific. """
+How does data migration typically impact consumption revenue? ,"""..It can take customers 6 months-plus before we start to recognize any consumption revenue from those customers because they're doing the data migration.""
+
+Source: Q4 2020 Earnings Call"
+"How was stable edge growth, quarter-to-quarter, in Q1 2022?","33%
+
+""Frank, I wanted to continue the discussion on edges and the percentage of customers that you're kind of adding, the edges going from 10% to 15% and the amount of edges up 33% quarter-on-quarter.""
+
+Source: Q1 2022 Earnings Call"
+What are Snowflake's minimum qualifications for something to be considered an edge?,"""..for us to designate something as an
+edge, it has to have a minimal amount of time in terms of durable consumption. So there's very much a consumption
+dimension to these edges that we track and mods or otherwise, we don't consider it an edge in our world. In other words, they have to be durable and stable because a lot of data relationships are transient. They exist for a period of time. They exist for a project, maybe a trial, whatever it is. But that's not -- that's also a metric that we follow where we really look for, what we'd call, stable or durable edges.""
+
+Source: Q1 2022 Earnings Call"
+"For customers landed in Q4 2021, what impact did they have on revenue in Q1 2022?","""Well, these large accounts are very, very long sales cycles, and you are going to see lumpiness in the additions. Obviously,
+Q4 was a strong quarter. And as one would expect, that's just landing a customer. That doesn't mean it contributed to revenue. As I said, most of those Fortune 500, we landed in Q4. We've seen virtually no revenue from them yet today. I can't stress that enough.""
+
+Source: Q1 2022 Earnings Call"
+How do customers see impact from the storage compression changes Snowflake makes?,"Snowflakes philosophy is to pass the cost savings from the compression changes on to the customer. 
+
+""There's a big focus on new compression technology for storage. And the impact of it was bigger than we would
+have thought. And we only knew that once we actually got real live examples from customers. And our philosophy has
+always been to pass that on to customers.""
+
+Source: Q1 2022 Earnings Call"
+How has storage compression impacted Snowflake's margins?,"""Well, what I will say is it does improve margins. And the way it improves margin is because storage becomes more
+efficient. Storage is a smaller component of the overall mix of the revenue, and compute is the real value of our software
+that drives more margin.""
+
+Source: Q1 2022 Earnings Call"
+How did the number of sales reps compare between 2022 and 2021?,"""A: Michael P. Scarpelli Snowflake Inc. ? CFO Well, we don't disclose quota-carrying reps. And what I will say is we're going to add about 1,200 net employees for the
+full year, and we do expect that we'll add about the same level into our sales organization this year as we did last year.
+
+Q: Brent John Thill Jefferies LLC, Research Division ? Equity Analyst
+So same number of absolute reps?
+
+A: Michael P. Scarpelli Snowflake Inc. ? CFO
+Correct.""
+
+Source: Q1 2022 Earnings Call"
+When does Snowflake plan for it's employees to return to office?,"It doesn't have a specific timeline for RTO.
+
+As stated in the Q1 2022 earnings call: ""With respect to COVID, our forecast assumes that we will continue to work remotely for the foreseeable future with an increase to travel expenses in the back half of the year. While we anticipate an eventual return to the office, we do not
+have a specific time line for that goal.""
+
+Source: Q1 2022 Earnings Call"
+How does CryptoNumerics drive impact on volumes?,"Snowflake acquired CryptoNumerics and as of Q1 2022, were using it to anonymize PI data. This has had a positive impact on governance, which is an area that drives volumes. 
+
+Source: Q1 2022 Earnings Call"
+"With respect to unstructured data, what are limiting factors on Snowflake's product gross margin growth?","""I don't see a dip happening in our product gross margins at all, but there is a limit to where you can get to. And when we're going through our IPO, people were asking questions. I did say I don't see us getting into the 80s. I can see a path to the mid-70s. We may, one day, be able to get into the high 70s. But given the storage component and the costs associated with the public clouds are in there, it's pretty hard to get beyond this.""
+
+Source Q1 2022 Earnings Call"
+"Across Q1 and Q2 2023, what percentage of services did top GSIs represent?","58%
+
+""Just to give you a little data around the GSI network, in the first half of this year, the GSIs have done north of $550 million in services around Snowflake. Our top 5 GSIs represented more than $320 million of that work."""
+What types of customers in Europe has Snowflake been focused on in 2023?,"""We've really shifted gears in Europe in terms of moving -- not so much moving away but sort of really emphasizing the large iconic accounts in key verticals and obviously, in the top regions and countries. And that's really
+how you win markets over there.""
+
+Source: Q2 2023 Earnings Call"
+What has been a key differentiator for Snowflake when compared with Databricks?,"""Snowflake has been a data lake with its own platform, its
+own proprietary platform and so on, whereas Databricks has taken the approach that they are just another tool in the lake."""
+How does sales ramp up time compare between average vs large verticals?,"""And it takes -- depending on where they are in the corporate sales team, which is more of an inside sales, it's about a 6-
+month period to ramp. It's a little bit longer around the enterprise and the verticals. The real large verticals we go after, those guys could take a year to ramp because those are long sales cycles""
+
+Source: Q2 2023 Earnings Call"
+How have Snowflake's customer's company personas evolved as of Q2 2023?,"""I'll add that we see broadening of the personas within a company that we speak to. It's not just the traditional data analyst team, but data engineering team are engaged with us. Data science teams are engaged with us. ""
+
+Source: Q2 2023 Earnings Call"
+"As of Q2 2023, what types of challenges are customers looking at Snowflake to solve, and how does it differ from initial use cases?","""We started out in this business with what I'd refer to as a workload modernization, where we're taking existing workloads and move them
+to the cloud. And we're running them much faster because of all the architectural innovations that Snowflake has represented. And this really helps customers. 
+ 
+And these days, I will tell you that 9 out of 10 conversations I had with
+customers are not about that, okay? They are about very specific industry challenges and industry opportunities.""
+
+Source: Q2 2023 Earnings Call"
