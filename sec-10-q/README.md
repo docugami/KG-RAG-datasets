@@ -1,4 +1,4 @@
-# SEC 10-Q Docs
+# SEC 10-Q
 
 > Status: [v1](./data/v1/) (documents and human reviewed qna_data)
 
@@ -8,10 +8,7 @@
 
 2. The documents were renamed (manually) using the following naming convention: `2022 Q3 AAPL.pdf`. This was an important step to bootstrap question and answer creation with LLMs.
 
-3. Different types of questions were created (manually) for each company, specifically:
-    1. **Single-Doc Single-Chunk RAG:** Questions where the answer can be found in a contiguous region (text or table chunk) of a single doc. To correctly answer, the RAG system needs to retrieve the correct chunk.
-    2. **Single-Doc Multi-Chunk RAG:** Questions where the answer can be found in multiple non-contiguous regions (text or table chunks) of a single doc. To correctly answer, the RAG system needs to retrieve multiple correct chunks from a single doc.
-    3. **Multi-Doc RAG:** Questions where the answer can be found in multiple non-contiguous regions (text or table chunks) across multiple docs. To correctly answer, the RAG system needs to retrieve multiple correct chunks from multiple docs.
+3. Different types of questions were created (manually) for each company, similar to what a financial analyst may ask against these documents.
 
 4. For each question, using the naming convention above, source docs were identified. For example, if the question was about the latest quarter for AAPL, we manually entered `*2023 Q3 AAPL*` as the source doc. Similarly, if the question was about all the quarters for MSFT, we manually entered `*MSFT*` as the source docs.
 
