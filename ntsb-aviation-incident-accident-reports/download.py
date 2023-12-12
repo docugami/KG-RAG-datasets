@@ -3,7 +3,7 @@ import requests
 import os
 
 # Load the CSV file
-file_path = 'docs_data.csv'  # Replace with the path to your CSV file
+file_path = 'download.csv'  # Replace with the path to your CSV file
 df = pd.read_csv(file_path)
 
 # Ensure the 'docs' directory exists
