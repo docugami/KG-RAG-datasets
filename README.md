@@ -4,7 +4,7 @@ This repository contains various datasets for advanced RAG over a multiple docum
 
 The goal with our dataset is to reflect real-life customer usage by incorporating:
 
-1. QnA over multiple documents, more just just a few
+1. QnA over multiple documents, more than just a few
 2. Use more realistic long-form documents that are similar to documents customers use, not just standard academic examples
 3. Include questions of varying degree of difficulty, including:
     1. **Single-Doc, Single-Chunk RAG:** Questions where the answer can be found in a contiguous region (text or table chunk) of a single doc. To correctly answer, the RAG system needs to retrieve the correct chunk and pass it to the LLM context. For example: `What did Microsoft report as its net cash from operating activities in the Q3 2022 10-Q?`
