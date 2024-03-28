@@ -1,0 +1,11 @@
+Question,Source Docs,Question Type,Source Chunk Type
+How has Apple's total net sales changed over time?,*AAPL*,Multi-Doc RAG,Table
+What are the major factors contributing to the change in Apple's gross margin in the most recent 10-Q compared to the previous quarters?,*AAPL*,Multi-Doc RAG,Text
+"Has there been any significant change in Apple's operating expenses over the reported quarters? If so, what are the key drivers for this change?",*AAPL*,Multi-Doc RAG,Table
+How has Apple's revenue from iPhone sales fluctuated across quarters?,*AAPL*,Multi-Doc RAG,Table
+Can any trends be identified in Apple�s Services segment revenue over the reported periods?,*AAPL*,Multi-Doc RAG,Table
+What is the impact of foreign exchange rates on Apple's financial performance? List this out separately for each reported period.,*AAPL*,Multi-Doc RAG,Table
+Are there any notable changes in Apple's liquidity position or cash flows as reported in these 10-Qs?,*AAPL*,Multi-Doc RAG,Table
+How does Apple's R&D expenditure in the most recent quarter compare to previous quarters and what implications might this have?,*AAPL*,Multi-Doc RAG,Table
+What legal proceedings or contingencies are disclosed in these 10-Qs and how might they potentially impact Apple?,*AAPL*,Multi-Doc RAG,Text
+Has Apple engaged in any significant share repurchase activities in the reported quarters and what are the financial implications of these activities?,*AAPL*,Multi-Doc RAG,Table
